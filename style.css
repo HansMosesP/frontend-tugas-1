@@ -38,11 +38,13 @@ article {
     max-width: 800px;
     margin: 30px auto;
     background-color: white; 
+    color: rgb(rgb(124, 54, 54), green, blue);
     border: 1px solid var(--warna-garis); 
 }
  
 footer {
     padding: 5px;
     text-align: center;
+    color: white;
     background-color: var(--warna-atas-bawah);
 }
