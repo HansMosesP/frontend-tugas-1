@@ -1,7 +1,7 @@
 :root {
-    --warna-latar: #6c7278;
-    --warna-atas-bawah: #b0c4de; 
-    --warna-menu: #097ef3; 
+    --warna-latar: #111111ba;
+    --warna-atas-bawah: #393c40; 
+    --warna-menu: #25272a; 
     --warna-teks-menu: #ffffff;
     --warna-garis: #cccccc;
 }
@@ -41,7 +41,7 @@ article {
 }
  
 footer {
-    padding: 25px;
+    padding: 5px;
     text-align: center;
     background-color: var(--warna-atas-bawah);
 }
