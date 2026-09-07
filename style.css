@@ -19,7 +19,7 @@ header {
 }
  
 nav {
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     background-color: var(--warna-menu);
 }
